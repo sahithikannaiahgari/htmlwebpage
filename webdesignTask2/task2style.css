@@ -1,0 +1,178 @@
+
+body{
+margin:0px;
+padding:0px;
+}
+#Navbar ul li{
+   display:inline;
+	padding:5px;
+    margin:0px 15px;
+	
+}
+#Navbar ul{float:right;}
+#Navbar ul li a{
+	text-decoration:none;
+color:black;}
+#head h1{
+	
+	font-size:30px;
+	color:blue;
+	margin:15px 60px;
+}/*
+#Navbar ul li{
+   display:inline;
+	padding:5px;
+    margin:0px 15px;
+}
+
+
+
+}
+#Navbar{
+	background-color:#eee;
+}
+#Navbar ul {
+float:right;
+position:absolute;
+top:0px;
+right:5px;
+background-color:red;
+}*/
+
+#Main{
+	background-image:url("Images/Img1.jpg");
+	background-repeat:no-repeat;
+	height:600px;
+	margin:0px;
+	padding:0px;
+	position:relative;
+	top:0px;
+	background-size:cover;
+	
+}
+#Main h1{
+margin:0px;
+	position:absolute;
+top:35%;
+left:30%;
+font-size:60px;color:white;}
+#Main h2{
+	margin:0px;
+	position:absolute;
+top:45%;
+left:33%;
+font-size:60px; color:white;}
+#Main p{
+	margin:0px;
+	position:absolute;
+top:58%;
+left:45%;
+font-size:20px;color:white;}
+#main table{
+	margin:0px;
+	position:absolute;
+top:63%;
+left:40%;
+}
+#main #but{
+	margin:0px;
+	position:absolute;
+top:75%;
+left:48%;color:white;background-color:#ff4500;
+}
+.mid {width:80%;
+margin:0px 150px;}
+#mid1{width:40%;
+	text-align:center;
+	
+}
+.about{color:blue;
+font-size:30px;}
+#i7{
+	background-image:url("Images/Img7.jpg");
+	background-repeat:no-repeat;
+	height:500px;
+	margin:0px;
+	padding:0px;
+	position:relative;
+	top:0px;
+	background-size:cover;
+}
+#i7 h1{
+margin:0px;
+	position:absolute;
+top:20%;
+left:30%;
+font-size:60px;color:white;}
+#i7 p{
+	margin:0px;
+	position:absolute;
+top:40%;
+left:15%;
+right:15%;
+font-size:20px;color:white;
+text-align:center;}
+#i7 img{
+	width:100px;height:100px;
+	border-radius:50%;
+	position:absolute;
+top:60%;
+left:48%;
+}
+#i7 h2{
+	position:absolute;
+top:80%;
+left:48%;
+color:white;
+}
+.down{width:100%;
+	background-color:#ff4500;
+	padding-left:40px;
+	padding-top:40px;
+}
+.down td{color:white;text-align:center;}
+
+#last{
+	background-image:url("Images/Img6.jpg");
+	background-repeat:no-repeat;
+	height:400px;
+	margin:0px;
+	padding:0px;
+	position:relative;
+	top:0px;
+	background-size:cover;
+}
+#last h1{font-size:40px;
+color:white;
+position:absolute;
+top:20%;
+left:49%;}
+#dtab{width:50%;position:absolute; top:50%;
+left:25%;}
+
+#dtab td input{
+	width:350px;
+	height:40px;
+}
+#subm{background-color:blue;
+color:white;}
+footer{background-color:black;
+height:50px;}
+footer p{text-align:center;
+	color:white;margin:0px;
+	padding-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
